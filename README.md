@@ -76,22 +76,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 -->
-<!-- 方案2：镜像站1（备用，如官方不显示试试这个）-->
+<!-- 方案2：镜像站1（备用，如官方不显示试试这个）
 <div align="center">
   <img height="180em" src="https://github-readme-stats.moonrailgun.com/api?username=void-soul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.moonrailgun.com/api/top-langs/?username=void-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
+-->
 
-
-<!-- 方案3：镜像站2（备用）
+<!-- 方案3：镜像站2（备用）-->
 <div align="center">
   <img height="180em" src="https://readme-stats.devjugal.com/api?username=void-soul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://readme-stats.devjugal.com/api/top-langs/?username=void-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
--->
+
 
 ---
-
+<!--
 <div align="center">
 
 ### 💡 "Code is poetry, bugs are plot twists"
@@ -99,7 +99,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding">
 
 </div>
-
+-->
 ---
 
 <div align="center">
