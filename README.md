@@ -9,7 +9,7 @@
 ### 📫 How to reach me
 
 [![Gmail Badge](https://img.shields.io/badge/Email-halozhangtiantian20191130%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:halozhangtiantian20191130@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-void-soul-black?style=flat-square&logo=github&logoColor=white)](https://github.com/void-soul)
+
 
 ---
 
