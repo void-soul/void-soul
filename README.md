@@ -56,50 +56,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
 
-## 🏆 GitHub Achievements
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void-soul&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-
----
-
-## 📊 GitHub Stats
-
-<!-- 方案1：官方Vercel（默认，如不显示请用方案2或3） 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=void-soul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
--->
-<!-- 方案2：镜像站1（备用，如官方不显示试试这个）
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.moonrailgun.com/api?username=void-soul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.moonrailgun.com/api/top-langs/?username=void-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
--->
-
-<!-- 方案3：镜像站2（备用）-->
-<div align="center">
-  <img height="180em" src="https://readme-stats.devjugal.com/api?username=void-soul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://readme-stats.devjugal.com/api/top-langs/?username=void-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
-
-
----
-<!--
-<div align="center">
-
-### 💡 "Code is poetry, bugs are plot twists"
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding">
-
-</div>
--->
 ---
 
 <div align="center">
